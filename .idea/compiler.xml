@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Defining_classes-Complex_numbers.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Defining_classes-Correct_fields.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Defining_classes-Inner_boxes.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Defining_classes-Points.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Defining_classes-Points_on_the_2D_plane.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Defining_classes-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Fix_compile-time_errors.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Fix_the_program.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-What's_wrong.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Fields_and_methods_in_enum-Balance_management.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Fields_and_methods_in_enum-Danger_levels.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Fields_and_methods_in_enum-Planets_of_the_solar_system.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Fields_and_methods_in_enum-Robot_control.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Fields_and_methods_in_enum-System_of_units.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Fields_and_methods_in_enum-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Does_an_array_contain_N.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Individual_taxes.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Right_Rotation.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Cinema.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Practical_applications.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Reverse_elements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Rotate_a_rectangle_array.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Avoid_division_by_zero.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Check_the_code.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
